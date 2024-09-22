@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Developer** with a focus on creating efficient, sc
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-muhammad-rizwan-37447a315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hannan-muhammad-rizwan-37447a315)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hannan.rizwan.tech@gmail.com)
 
 ---
